@@ -6,3 +6,6 @@ Pulling changes with remote repo may cause merge conflicts, so manual way allows
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 fork is cloning others repo to your github account on cloud, clone is like downloading remote repo of others or yours to your local machine. Branch is used add new feature or bugfix and merge back to master branch. Will use fork to clone other public repo and add new all new changes to cloned repo.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You always have the latest changes from remote locally, so you're upto date and contribute new features even you're off the grid.
