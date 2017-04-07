@@ -9,3 +9,6 @@ fork is cloning others repo to your github account on cloud, clone is like downl
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You always have the latest changes from remote locally, so you're upto date and contribute new features even you're off the grid.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Some file cloud sync like dropbox, but you and others need to manually maintain change-log file of what your'e working on and later sync up each other work. tedious chore.
