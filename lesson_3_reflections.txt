@@ -12,3 +12,6 @@ You always have the latest changes from remote locally, so you're upto date and 
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Some file cloud sync like dropbox, but you and others need to manually maintain change-log file of what your'e working on and later sync up each other work. tedious chore.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When there is an meaningful and functional change and needs other collabartors opinion and approval to be merged to master/working branch. In case of obvious typo or something simple i would directly change in master.
