@@ -1,0 +1,22 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+diff command is a tool on macOS/Linux which displays the differences between two files.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+it would allow developer to see the file changes made along its life time and can pull back changes if needed.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Manual commit allows to save changes of a single locical unit/feature.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+As the all the files in project work together, git saves the state of every file even though changes in made in only one file, Google Docs each document/file is a seperate logical document.
+
+How can you use the commands git log and git diff to view the history of files?
+git log prints all the commit history, git diff shows the insertions and deletions made between two different commits using their ids.
+
+How might using version control make you more confident to make changes that could break something?
+Always VC allows to revert to previous working version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+For my projects.
+
+
